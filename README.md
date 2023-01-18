@@ -1,7 +1,7 @@
 # 이것이 취업을 위한 코딩테스트
----
 
-[22년 코테 유형 ](https://www.notion.so/22-a07461ebf42d4e7ea23e92ffc915d9b9)
+
+* [22년 코테 유형 ](https://www.notion.so/22-a07461ebf42d4e7ea23e92ffc915d9b9)
 
 [Coding Test](https://www.notion.so/Coding-Test-b70a76f15b824d7081434a79629b88c1)
 
