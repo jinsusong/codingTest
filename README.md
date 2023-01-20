@@ -7,9 +7,9 @@
 
 * [입출력 ](https://www.notion.so/4b5848964a7e40c6a83c7421a21e2c87)
 
-##그리디 
+## 그리디 
 
-##구현
+## 구현
 
 ## 탐색 
 * [자료구조](https://www.notion.so/9b8fa08bda3f4ad6a1b323e95c4c85f5)
@@ -23,7 +23,7 @@
 * [이진 탐색](https://www.notion.so/9e1aaedb815049e4884672c8a8a487c8)
 
 
-##정렬
+## 정렬
 
 
 ## 다이나믹 프로그래밍
