@@ -7,9 +7,11 @@
 
 * [입출력 ](https://www.notion.so/4b5848964a7e40c6a83c7421a21e2c87)
 
-## 그리디 
+
 
 ## 구현
+
+## 그래프 이론
 
 ## 탐색 
 * [자료구조](https://www.notion.so/9b8fa08bda3f4ad6a1b323e95c4c85f5)
@@ -22,8 +24,7 @@
 
 * [이진 탐색](https://www.notion.so/9e1aaedb815049e4884672c8a8a487c8)
 
-
-## 정렬
+## 그리디 
 
 
 ## 다이나믹 프로그래밍
@@ -33,9 +34,6 @@
 * [연습 문제 : 1로 만들기](https://www.notion.so/1-e82fbf449f71445cb7b825218cb1f6e4)
 
 
-
-
 ## 최단 경로
-* [최단 경로](https://www.notion.so/8f619e0939f143e79c16cba4691bd508)
+* [최단 ](https://www.notion.so/8f619e0939f143e79c16cba4691bd508)
 
-## 그래프 이론
