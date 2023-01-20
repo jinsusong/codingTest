@@ -35,5 +35,5 @@
 
 
 ## 최단 경로
-* [최단 ](https://www.notion.so/8f619e0939f143e79c16cba4691bd508)
+* [최단 거리](https://www.notion.so/8f619e0939f143e79c16cba4691bd508)
 
