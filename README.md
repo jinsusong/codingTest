@@ -19,6 +19,7 @@
 * [BFS](https://www.notion.so/BFS-80c850b7f7a54d998cac53ca88c00ffd)
 * [이진 탐색](https://www.notion.so/9e1aaedb815049e4884672c8a8a487c8)
 * [연습 문제 : 음료수 얼려 먹기](https://www.notion.so/7f05e6e33f96495d96f19e3e6ebe6e29)
+* [연습 문제 : 미로 탈출(https://www.notion.so/cd471b405ecd463fa6d2e2ae6734bf82)
 
 ## 그리디 
 
