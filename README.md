@@ -24,6 +24,7 @@
 * [연습 문제 : 특정 저리의 도시 찾기](https://www.notion.so/c3a75731ceb64a8d976355f0cabe40c3)
 * [연습 문제 : 연구소](https://www.notion.so/8075cdb95f9641c5968531eada1e8329)
 * [연습 문제 : 경쟁적 전염](https://www.notion.so/f9bb60f5a7884250be0b50978097ed43)
+* [연습 문제 : 괄호 변환](https://www.notion.so/1a0c1992c6504035a846402a97d70110)
 
 ## 그리디 
 
