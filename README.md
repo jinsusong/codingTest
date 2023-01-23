@@ -6,6 +6,8 @@
 * [입출력 ](https://www.notion.so/4b5848964a7e40c6a83c7421a21e2c87)
 
 ## 완전 탐색
+*
+*
 
 ## 구현(시뮬레이션)
 * [구현](https://www.notion.so/afb2696f27ef41cabf342a5cd36de800)
