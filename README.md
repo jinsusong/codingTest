@@ -22,6 +22,7 @@
 * [연습 문제 : 미로 탈출](https://www.notion.so/cd471b405ecd463fa6d2e2ae6734bf82)
 * [연습 문제 : 특정 저리의 도시 찾기](https://www.notion.so/c3a75731ceb64a8d976355f0cabe40c3)
 * [연습 문제 : 연구소](https://www.notion.so/8075cdb95f9641c5968531eada1e8329)
+* [연습 문제 : 경쟁적 전염](https://www.notion.so/f9bb60f5a7884250be0b50978097ed43)
 
 ## 그리디 
 
