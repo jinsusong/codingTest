@@ -24,6 +24,8 @@
 * [연습 문제 : 연구소](https://www.notion.so/8075cdb95f9641c5968531eada1e8329)
 * [연습 문제 : 경쟁적 전염](https://www.notion.so/f9bb60f5a7884250be0b50978097ed43)
 * [연습 문제 : 괄호 변환](https://www.notion.so/1a0c1992c6504035a846402a97d70110)
+* [연습 문제 : 연산자 끼워 넣기](https://www.notion.so/0cd46324c6aa44d281211e1f5a6888d2)
+* [재귀를 활용한 조합](https://www.notion.so/fdd0e359316d4506a2bbfe0e0ffbad9f)
 
 ## 그리디 
 
