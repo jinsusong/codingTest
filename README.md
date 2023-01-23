@@ -1,6 +1,6 @@
 # 이것이 취업을 위한 코딩테스트
 
-
+* [쩜튜브 코테 준비](https://www.notion.so/2af924be3e84405e9d2e3b1761b858ca)
 * [22년 코테 유형 ](https://www.notion.so/22-a07461ebf42d4e7ea23e92ffc915d9b9)
 * [Coding Test](https://www.notion.so/Coding-Test-b70a76f15b824d7081434a79629b88c1)
 * [입출력 ](https://www.notion.so/4b5848964a7e40c6a83c7421a21e2c87)
