@@ -10,7 +10,11 @@
 *
 
 ## 구현(시뮬레이션)
-* [구현](https://www.notion.so/afb2696f27ef41cabf342a5cd36de800)
+* [구현 이론 ](https://www.notion.so/afb2696f27ef41cabf342a5cd36de800)
+* [연습 문제 : 상하좌우](https://www.notion.so/3d271250a68c4887b1673ea55c9fc3c1)
+* [연습 문제 : 시각](https://www.notion.so/243e99a714bb4f82810bf212b2fc6f61)
+* [연습 문제 : 왕실의 나이트 ](https://www.notion.so/b876fb702c45481f924d3883440a913c)
+* [연습 문제 : 게임 개발 ](https://www.notion.so/517db981ef674a999cd6c834e32dacce)
 
 
 ## 탐색(DFS/BFS)
