@@ -15,6 +15,10 @@
 * [연습 문제 : 시각](https://www.notion.so/243e99a714bb4f82810bf212b2fc6f61)
 * [연습 문제 : 왕실의 나이트 ](https://www.notion.so/b876fb702c45481f924d3883440a913c)
 * [연습 문제 : 게임 개발 ](https://www.notion.so/517db981ef674a999cd6c834e32dacce)
+* [연습 문제 : 럭키 스트레이트](https://www.notion.so/5d570ed012ca45bb8a23408945f32ce1)
+* [연습 문제 : 문자열 재정렬](https://www.notion.so/49f994133b7f4d898dd3249d8d492624)
+* [연습 문제 : 문자열 압축](https://www.notion.so/9492c4738db748ee920836734cc065b3)
+* [연습 문제 : 자물쇠와 열쇠 ](https://www.notion.so/2935dc3209114a3b80fa5a9dd3d5b600)
 
 
 ## 탐색(DFS/BFS)
