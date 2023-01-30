@@ -20,6 +20,7 @@
 * [연습 문제 : 문자열 압축](https://www.notion.so/9492c4738db748ee920836734cc065b3)
 * [연습 문제 : 자물쇠와 열쇠 ](https://www.notion.so/2935dc3209114a3b80fa5a9dd3d5b600)
 * [연습 문제 : 뱀](https://www.notion.so/0500d7e4a4504f92a286b0a5e7f3aba5)
+* [연습 문제 : 기둥과 보 설치](https://www.notion.so/bd2e28b8fcb04238a16d53fa004680b0)
 
 ## 탐색(DFS/BFS)
 * [자료구조](https://www.notion.so/9b8fa08bda3f4ad6a1b323e95c4c85f5)
