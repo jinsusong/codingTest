@@ -7,7 +7,6 @@
 
 ## 완전 탐색
 *
-*
 
 ## 구현(시뮬레이션)
 * [구현 이론 ](https://www.notion.so/afb2696f27ef41cabf342a5cd36de800)
